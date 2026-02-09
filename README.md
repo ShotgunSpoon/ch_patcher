@@ -48,7 +48,6 @@ Once the mod is installed and the game is running:
 | Key | Action |
 |-----|--------|
 | **Tab** | Cycle forward through screens (Combat → Heroes → Stats → Achievements) |
-| **Shift+Tab** | Cycle backward through screens |
 | **Enter** | Activate / confirm current selection |
 | **Escape** | Go back / close popup |
 | **F10** | Toggle between Screen Reader and SAPI speech output |
