@@ -80,7 +80,16 @@ Once the mod is installed and the game is running:
 | **Page Up / Page Down** | Navigate through hero list |
 | **Shift+Page Up / Shift+Page Down** | Jump 10 heroes |
 | **Left Arrow / Right Arrow** | Navigate buttons on current hero |
-| **L** | Level up selected hero |
+| **L** | Hire, level up, or purchase upgrades for the selected hero |
+| **U** | Toggle upgrade navigation mode for the selected hero |
+
+### Upgrades (U Mode)
+
+| Key | Action |
+|-----|--------|
+| **U** | Enter/exit upgrade mode for the current hero |
+| **Page Up / Page Down** | Browse upgrades |
+| **Enter** | Purchase the selected upgrade |
 
 ### Skills
 
@@ -89,6 +98,14 @@ Once the mod is installed and the game is running:
 | **K** | Toggle skill navigation mode |
 | **Page Up / Page Down** | Navigate between skills (in skill mode) |
 | **Enter** | Activate selected skill (in skill mode) |
+
+### Achievements
+
+| Key | Action |
+|-----|--------|
+| **Up Arrow / Down Arrow** | Navigate achievements in the current list |
+| **Left Arrow / Right Arrow** | Switch between unclaimed and claimed achievement lists |
+| **Enter** | Claim reward for the selected achievement |
 
 ### Shop
 
