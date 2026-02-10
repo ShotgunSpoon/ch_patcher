@@ -47,7 +47,7 @@ Once the mod is installed and the game is running:
 
 | Key | Action |
 |-----|--------|
-| **Tab** | Cycle forward through screens (Combat → Heroes → Stats → Achievements) |
+| **Tab** | Cycle forward through screens (Combat → Heroes → Ancients → Outsiders → Stats → Achievements). Ancients and Outsiders tabs appear once unlocked in-game. |
 | **Enter** | Activate / confirm current selection |
 | **Escape** | Go back / close popup |
 | **F10** | Toggle between Screen Reader and SAPI speech output |
@@ -106,6 +106,24 @@ Once the mod is installed and the game is running:
 | **Up Arrow / Down Arrow** | Navigate achievements in the current list |
 | **Left Arrow / Right Arrow** | Switch between unclaimed and claimed achievement lists |
 | **Enter** | Claim reward for the selected achievement |
+
+### Ancients (after first ascension)
+
+| Key | Action |
+|-----|--------|
+| **Page Up / Page Down** | Navigate through owned ancients |
+| **Enter** | Level up the selected ancient |
+| **T** | Cycle level scale (x1, x10, x100, x1000, x10000) |
+| **R** | Read current ancient info |
+
+### Outsiders (after first transcension)
+
+| Key | Action |
+|-----|--------|
+| **Page Up / Page Down** | Navigate through outsiders |
+| **Enter** | Level up the selected outsider |
+| **T** | Cycle level scale (x1, x10, x100, x1000, MAX) |
+| **R** | Read current outsider info |
 
 ### Shop
 
